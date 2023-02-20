@@ -1,4 +1,34 @@
-### Hi there 👋
+## Hi there 👋
+### 🔭 I’m currently working on ...
+
+- A professional backoffice
+- Frontend websites templates
+
+### 🌱 I’m currently learning ...
+
+I am perfecting **REACT** ⚛️ and training as a fullstack developer. 
+
+### 👯 I’m looking to collaborate on ...
+
+Frontend templates and e-commerce websites.
+
+### 🤔 I’m looking for help with ...
+
+I'm a beginner in backend development. 🔰
+I would learn and looking for help with NODE express.
+
+### 💬 Ask me about ...
+
+I've a little experiences on REACT.
+You can talk with me about that.
+
+### 📫 How to reach me: ...
+
+You can contact me here : **valentinchauvet.contact@gmail.com**
+
+### ⚡ Fun fact: ...
+
+I am a biker 🏍️ and I like tennis 🎾
 
 <!--
 **Valimp/Valimp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
