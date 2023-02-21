@@ -25,6 +25,7 @@ You can talk with me about that.
 ### 📫 How to reach me: ...
 
 You can contact me here : **valentinchauvet.contact@gmail.com**
+Or on Linkedin : **https://www.linkedin.com/in/valentin-chauvet-702788232/**
 
 ### ⚡ Fun fact: ...
 
