@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 24 yo. developer abd i'm currently working on Next JS Backoffice.<br>I' and a React Artist Website.<br>I' m currently learning Next JS and node with express framwork.<br><br>Fun fact : I 'm love mathematics and physics ! 
+I'm a 24 yo. developer abd i'm currently working on Next JS Backoffice.<br>I' and a React Artist Website.<br>I' m currently learning Next JS and node with express framwork.<br><br>Fun fact : I love mathematics and physics ! 
 
 
 ## 🌐 Socials:
