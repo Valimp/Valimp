@@ -1,10 +1,10 @@
 # 💫 About Me:
 
-👋 Hey there! I'm Valentin Chauvet, but you can call me Valimp. 💻 I'm currently pursuing a Bachelor's degree in Web and Mobile Development, and I've been working as a web developer for the past year.
+👋 Hey there! I'm Valentin Chauvet, but you can call me Valimp. 💻 I'm currently pursuing a Master's degree in Web and Mobile Development, and I've been working as a web developer for the past year.
 
-📱 I've had the opportunity to work on some exciting projects, including a mobile contract management application and a website for an investment consulting agency. It's been an amazing experience to see my code come to life and make a real impact.
+📱 I've had the opportunity to work on some exciting projects, including a mobile contract management application and a website for an investment consulting agency. It's been an amazing experience to see my code come to life and make a real impact. Now i'm working for OpenFoodFacts as an Web developer.
 
-🚀 My coding adventures primarily revolve around JavaScript, TypeScript, Dart, and Kotlin. I love diving into frameworks like Flutter, Next.js, Node.js, Express, React, and Vue.js to create awesome web and mobile applications.
+🚀 My coding adventures primarily revolve around JavaScript, TypeScript, Python, Dart, and Kotlin. I love diving into frameworks like Flutter, Next.js, Node.js, Express, React, and Vue.js to create awesome web and mobile applications.
 
 ⚡ When I'm not busy coding, you'll find me on the tennis court 🎾. I've been playing for a while now, and I'm even ranked! 🏆 Additionally, I have a passion for motorcycles 🏍️, and I've been enjoying the thrilling ride for the past four years.
 
