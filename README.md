@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Docker for my projects**
 
-- 💬 Ask me about **React and typescript**
+- 💬 Ask me about **React, typescript and python**
 
 - 📫 How to reach me **valentinchauvet.contact@gmail.com**
 
