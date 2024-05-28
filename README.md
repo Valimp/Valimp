@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Nutripatrol frontend projects](https://github.com/openfoodfacts/nutripatrol-frontend) and [Nutripatrol backend projects](https://github.com/openfoodfacts/nutripatrol)
 
-- 🌱 I’m currently learning **Docker for my projects**
+- 🌱 I’m currently learning **Redux for my React projects**
 
 - 💬 Ask me about **React, typescript and python**
 
